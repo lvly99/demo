@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 170vh;
+    font-family: bree serif;
+}
+
+.whitebg {
+    background-color: #e6f6ff;
+    height: 40vh;
+    width: 90vw;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.apjimage {
+    height: 40vh;
+    width: 30vw;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #ffffff;
+    padding: 20px;
+}
+
+.para {
+    padding: 20px;
+}
+
+.smlimage {
+    height: 40vh;
+    width: 25vw;
+    padding: 10px;
+}
+
+.detailsbg {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 160vh;
+}
+
+.text {
+    text-align: center;
+    font-family: bree serif;
+    color: #ffffff;
+}
+
+.details-image {
+    height: 50vh;
+}
+
+.details-card {
+    padding: 30px;
+}
+
+.details-para {
+    color: #ffffff;
+    font-family: roboto;
+    margin: 10px;
+    padding: 10px;
+}
+
+.button {
+    margin: 10px;
+}
